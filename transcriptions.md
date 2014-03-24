@@ -31,12 +31,13 @@ Répartition du travail
 
 ### Tome 1
 
-407-425 (latin)
+407-425 (latin) Fabiola Gilardoni
 ++ 475-390 Filles-Dieu, Feuillants
 633-647 Boucheries
 647-671 Halles et Marchés 
-671 Remparts
+671 Remparts Matthieu Dubost
 Amours des rois de France sous plusieurs races 1-40
+1-15 Typhaine Behier
 
 ### Tome 2
 
