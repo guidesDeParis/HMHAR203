@@ -31,23 +31,23 @@ Répartition du travail
 
 ### Tome 1
 
-407-425 (latin) -->Fabiola Gilardoni
-++ 475-390 Filles-Dieu, Feuillants -->Sara Nadal
-633-647 Boucheries
-647-671 Halles et Marchés -->Alice Armant
-671 Remparts Matthieu Dubost
-Amours des rois de France sous plusieurs races 1-40
-1-15 -->Typhaine Behier
+- 407-425 (latin) -->Fabiola Gilardoni
+- ++ 475-390 Filles-Dieu, Feuillants -->Sara Nadal
+- 633-647 Boucheries
+- 647-671 Halles et Marchés -->Alice Armant
+- 671 Remparts Matthieu Dubost
+- Amours des rois de France sous plusieurs races 1-40
+- 1-15 -->Typhaine Behier
 
 ### Tome 2
 
-180-196 Hotel de Nesle (Soissons), Petit Bourbon --> Amandine Girardet
-240-256 (biographies)
-270-286 Hotels des prieurs, Palais des rois
-313-328 maisons de plaisance, palais, trésors, Arsenaux -->Cindy Sartre
-328-343 Tour du Temple, arsenal, monuments antiques
-344-359 Tombeaux, médailles, fragments, Université --> Chapalain Rose-Marie 
-360-75 Clos Bruneau, etc. Vignes et Fbgs, églises
-376-391 Collèges
-392-407 Justices -->Bastien Renaud
+- 180-196 Hotel de Nesle (Soissons), Petit Bourbon --> Amandine Girardet
+- 240-256 (biographies)
+- 270-286 Hotels des prieurs, Palais des rois
+- 313-328 maisons de plaisance, palais, trésors, Arsenaux -->Cindy Sartre
+- 328-343 Tour du Temple, arsenal, monuments antiques
+- 344-359 Tombeaux, médailles, fragments, Université --> Chapalain Rose-Marie 
+- 360-75 Clos Bruneau, etc. Vignes et Fbgs, églises
+- 376-391 Collèges
+- 392-407 Justices -->Bastien Renaud
 
