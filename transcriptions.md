@@ -43,7 +43,7 @@ Répartition du travail
 
 - 180-196 Hotel de Nesle (Soissons), Petit Bourbon --> Amandine Girardet
 - 240-256 (biographies)
-- 270-286 Hotels des prieurs, Palais des rois
+- 270-286 Hotels des prieurs, Palais des rois --> Gaspard Rolland
 - 313-328 maisons de plaisance, palais, trésors, Arsenaux -->Cindy Sartre
 - 328-343 Tour du Temple, arsenal, monuments antiques
 - 344-359 Tombeaux, médailles, fragments, Université --> Chapalain Rose-Marie 
