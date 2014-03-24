@@ -74,5 +74,7 @@ Recherches bibliographiques
 ------------
 
 - Kubikat http://aleph.mpg.de/F?func=file&file_name=find-b&local_base=kub01
-- 
+- RAA http://www.inha.fr/spip.php?rubrique400
+- BHA http://www.getty.edu/research/tools/bha/
+- OpenBibArt http://www.openbibart.fr
 
