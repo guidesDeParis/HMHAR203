@@ -50,7 +50,7 @@ Répartition du travail
 
 ### Tome 2
 
-[Tome 2, sur les BVH](http://gallica.bnf.fr/ark:/12148/bpt6k1040561p)
+[Tome 2, sur les BVH](http://architectura.cesr.univ-tours.fr/traite/Images/FB1926Index.asp)
 
 - 180-196 Hotel de Nesle (Soissons), Petit Bourbon --> Amandine Girardet
 - 240-256 (biographies)
