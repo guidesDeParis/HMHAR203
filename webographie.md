@@ -70,3 +70,9 @@ Vocabulaires spécialisés
 - Linked Open Vocabularies http://lov.okfn.org/
 
 
+Recherches bibliographiques
+------------
+
+- Kubikat http://aleph.mpg.de/F?func=file&file_name=find-b&local_base=kub01
+- 
+
