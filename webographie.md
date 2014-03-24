@@ -42,6 +42,7 @@ Recherche de reproductions
 - ArtStor http://www.artstor.org/
 
 Ressources en Histoire de l'art sur internet
+------------
 
 - Observatoire critique des ressources numériques en histoire de l'art http://observatoire-critique.hypotheses.org
 - Observatoire critique des ressources numériques en histoire de l'art [ancien site] http://www.observatoire-critique.org http://observatoire-critique.hypotheses.org
