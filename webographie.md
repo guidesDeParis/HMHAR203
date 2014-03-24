@@ -24,6 +24,7 @@ Bibliothèques virtuelles
 - Hathi Trust http://www.hathitrust.org
 - InternetArchive https://archive.org
 - Bibliothèques Humanistes Virtuelles (CESR Tours) http://www.bvh.univ-tours.fr
+- Bibliothèque virtuelle de l'INHA http://www.inha.fr/spip.php?rubrique286
 
 
 Recherches iconographiques et constitution de corpus
@@ -40,6 +41,12 @@ Recherche de reproductions
 - Wikimedia Commons http://commons.wikimedia.org/
 - ArtStor http://www.artstor.org/
 
+
+Ressources en Histoire de l'art sur internet
+
+- Formation URFIST http://www.sites.univ-rennes2.fr/urfist/ressources/ressources-en-art-histoire-de-lart-sur-internet?destination=ressources
+- [Portail] Histoire des Arts http://www.histoiredesarts.culture.fr
+- Ressources documentaires [INHA] http://www.inha.fr/spip.php?rubrique3
 
 Modèles descriptifs
 ------------
