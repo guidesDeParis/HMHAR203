@@ -12,6 +12,7 @@ Ecdotique
 - Aurélien Berra, « Corpus », Philologie à venir http://philologia.hypotheses.org/corpus
 - Franzini, Greta, « A catalogue of digital editions », Greta Franzini [blog] http://gretafranzini.com/?p=1677
 - Sahle Patrick, Scholarly Digital Editions. An anno- tated List, compiled by Patrick Sahle http://www.digitale-edition.de/index.html
+- Sandrart.net http://www.sandrart.net/
 
 
 Bibliothèques virtuelles
@@ -35,8 +36,21 @@ Recherche de reprodictions
 Modèles descriptifs
 ------------
 
+- Categories for the Description of Works of Art (CDWA) http://www.getty.edu/research/publications/electronic_publications/cdwa/introduction.html
+- Cataloging Cultural Objects: A Guide to Describing Cultural Works and Their Images (CCO) [comprend des exemples d’un ensemble noyau de CDWA] http://cco.vrafoundation.org/
+- Cidoc-CRM (modèle conceptuel de référence) http://www.cidoc-crm.org
+- LIDO (format, application de Cidoc-CRM) http://network.icom.museum/cidoc/working-groups/data-harvesting-and-
+interchange/what-is-lido/
+- Hadoc Harmonisation des données culturelles http://www.culturecommunication.gouv.fr/Etudes-et-documentation/HADOC/Presentation-du-Programme/Presentation-du-programme
+- SyMoGIH Système Modulaire d’Information Hist. - http://www.symogih.org
+
 
 Vocabulaires spécialisés
 ------------
+
+- Getty vocabularies https://www.getty.edu/research/tools/vocabularies/
+- vocabulaires du Ministère de la Culture et de la Communication http://data.culture.fr/thesaurus/ 
+- iconclass http://www.iconclass.org
+- Linked Open Vocabularies http://lov.okfn.org/
 
 
