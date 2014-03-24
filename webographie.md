@@ -31,7 +31,7 @@ Recherches iconographiques et constitution de corpus
 ------------
 
 - BildIndex http://www.bildindex.de
-- http://www.fotomarburg.de/
+- Foto Marburg http://www.fotomarburg.de/
 - Michael-Culture http://www.michael-culture.eu
 - Minerva http://www.minervaeurope.org
 
@@ -41,9 +41,10 @@ Recherche de reproductions
 - Wikimedia Commons http://commons.wikimedia.org/
 - ArtStor http://www.artstor.org/
 
-
 Ressources en Histoire de l'art sur internet
 
+- Observatoire critique des ressources numériques en histoire de l'art http://observatoire-critique.hypotheses.org
+- Observatoire critique des ressources numériques en histoire de l'art [ancien site] http://www.observatoire-critique.org http://observatoire-critique.hypotheses.org
 - Formation URFIST http://www.sites.univ-rennes2.fr/urfist/ressources/ressources-en-art-histoire-de-lart-sur-internet?destination=ressources
 - [Portail] Histoire des Arts http://www.histoiredesarts.culture.fr
 - Ressources documentaires [INHA] http://www.inha.fr/spip.php?rubrique3
