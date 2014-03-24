@@ -28,9 +28,16 @@ Bibliothèques virtuelles
 Recherches iconographiques et constitution de corpus
 ------------
 
+- BildIndex http://www.bildindex.de
+- http://www.fotomarburg.de/
+- Michael-Culture http://www.michael-culture.eu
+- Minerva http://www.minervaeurope.org
 
-Recherche de reprodictions
+Recherche de reproductions
 ------------
+
+- Wikimedia Commons http://commons.wikimedia.org/
+- ArtStor http://www.artstor.org/
 
 
 Modèles descriptifs
