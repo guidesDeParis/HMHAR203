@@ -23,6 +23,9 @@ Transcrire le passage concerné dans un logiciel de traitement de texte en suiva
 6. **Notes de commentaire historique** : vous pouvez fournir des notes de commentaire historique en insérant des notes de fin de texte
 
 
+Commentaires sur la typographie et les ornements
+Marque de retour à la ligne
+
 Répartition du travail
 ------------
 
