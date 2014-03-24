@@ -23,13 +23,22 @@ Transcrire le passage concerné dans un logiciel de traitement de texte en suiva
 6. **Notes de commentaire historique** : vous pouvez fournir des notes de commentaire historique en insérant des notes de fin de texte
 
 
-Commentaires sur la typographie et les ornements
-Marque de retour à la ligne
+Indiquer en commentaires les informations concernant les effets et les ornements typographiques.
+
+Pour les gras, italic, etc. il est possible d'utiliser les formatage de caractère du traitement de texte.
+
+Marque de retour à la ligne distinctement des marques de paragraphe.
+
 
 Répartition du travail
 ------------
 
+
+
+
 ### Tome 1
+
+[Tome 1, sur Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k1040561p)
 
 - 407-425 (latin) -->Fabiola Gilardoni
 - ++ 475-390 Filles-Dieu, Feuillants -->Sara Nadal
@@ -40,6 +49,8 @@ Répartition du travail
 - 1-15 -->Typhaine Behier
 
 ### Tome 2
+
+[Tome 2, sur les BVH](http://gallica.bnf.fr/ark:/12148/bpt6k1040561p)
 
 - 180-196 Hotel de Nesle (Soissons), Petit Bourbon --> Amandine Girardet
 - 240-256 (biographies)
