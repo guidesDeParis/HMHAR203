@@ -20,7 +20,7 @@ Transcrire le passage concerné dans un logiciel de traitement de texte en suiva
 3. **Titres courants, réclames, marques de reliure** : les ignorer
 4. **Pagination** : à fournir entre crochets droits de la manière suivante (en respectant stritement la typographie) : [p. 201]
 5. **Notes d'édition critique** : vous pouvez fournir des notes d'édition critique en insérant des notes de bas de page
-6. **Notes de commentaire historiaue** : vous pouvez fournir des notes de commentaire historique en insérant des notes de fin de texte
+6. **Notes de commentaire historique** : vous pouvez fournir des notes de commentaire historique en insérant des notes de fin de texte
 
 
 Répartition du travail
