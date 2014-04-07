@@ -62,3 +62,8 @@ Répartition du travail
 - 376-391 Collèges
 - 392-407 Justices -->Bastien Renaud
 
+
+Échéance
+------------
+
+Pour pouvoir être évalué à la session de septembre : rendu le 23 juin dernier délai
